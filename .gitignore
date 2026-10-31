@@ -1,0 +1,11 @@
+# Ignore large backup archives and raw database dumps
+*.wpress
+*.sql
+extracted_pages_summary.txt
+referenced_images.json
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
